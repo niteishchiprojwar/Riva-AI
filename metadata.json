@@ -1,0 +1,8 @@
+{
+  "name": "RiVA",
+  "description": "Conversational AI workspace with streaming responses, web search grounding, image understanding, and organized chat history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
