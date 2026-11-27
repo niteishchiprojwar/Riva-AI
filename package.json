@@ -1,3 +1,4 @@
+
 {
   "name": "react-example",
   "private": true,
@@ -12,6 +13,9 @@
     "lint": "tsc --noEmit"
   },
   "dependencies": {
+    "@capacitor/android": "^8.6.3",
+    "@capacitor/cli": "^8.6.3",
+    "@capacitor/core": "^8.6.3",
     "@google/genai": "^3.6.1",
     "@tailwindcss/vite": "^4.3.3",
     "@vitejs/plugin-react": "^6.1.1",
